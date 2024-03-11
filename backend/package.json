@@ -8,7 +8,7 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "Maximilian Schwarzmüller (Academind GmbH)",
+  "author": "Keen Lloyd T. Gementiza",
   "license": "ISC",
   "dependencies": {
     "@tanstack/react-query": "^5.0.0-beta.35",
